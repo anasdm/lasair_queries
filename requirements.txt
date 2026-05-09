@@ -1,0 +1,7 @@
+astropy
+astroquery
+lasair
+numpy
+pandas
+sncosmo
+streamlit
